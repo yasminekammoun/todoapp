@@ -1,0 +1,20 @@
+.pad{
+margin:20px  !important;
+}
+ 
+    
+    ul{
+        list-style: none;
+    }
+    li{ 
+        display: flex;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        align-items: center;
+    }
+   
+   .fasakh{
+    text-decoration: line-through;
+   }
+   .btn{
+    margin: 16px;
+   }
